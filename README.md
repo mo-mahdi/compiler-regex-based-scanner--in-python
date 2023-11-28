@@ -15,7 +15,7 @@ this is how you can compile your code using compiler_cli.py
 PS: you need to install [typer](https://pypi.org/project/typer/) to run the compiler_cli.
 
 ```sh
-python compiler_cli.py path/to/file
+python3 compiler_cli.py path/to/file
 ```
 
 # Simple example
